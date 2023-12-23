@@ -1,5 +1,4 @@
 # Spam-Email-Detection
-Data Mining Project at UoFM
 
 Instructions to run the project -
 -> Download the .ipynb file and upload it in Google Colab.
